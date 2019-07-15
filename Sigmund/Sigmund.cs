@@ -23,7 +23,7 @@ namespace Sigmund
     }
     public class Watchdog
     {
-        static string pluginDirectory = @"C:\Users\Joseph\Documents\Visual Studio 2013\Projects\HearthstoneBot\plugins";
+        static string pluginDirectory = @"C:\repository\GitHub\HearthSim\Sigmund\plugins";
         //static string scriptDir = @"C:\Users\Joseph\Documents\Visual Studio 2013\Projects\HearthstoneBot\scripts";
         Loader loader;
         Hashtable mtimeDb = new Hashtable();
